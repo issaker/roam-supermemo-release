@@ -7,12 +7,12 @@
 
 <p align="center">
   <strong>优化版本演示：</strong><br/>
-  <img src="./assets/images/插件主窗口.png" alt="插件主窗口" width="600">
+  <img src="https://raw.githubusercontent.com/issaker/roam-supermemo-release/main/assets/images/%E6%8F%92%E4%BB%B6%E4%B8%BB%E7%AA%97%E5%8F%A3.png" alt="插件主窗口" width="600">
 </p>
 
 <p align="center">
   <strong>点阵图管理界面：</strong><br/>
-  <img src="./assets/images/点阵图窗口.jpg" alt="点阵图窗口" width="600">
+  <img src="https://raw.githubusercontent.com/issaker/roam-supermemo-release/main/assets/images/%E7%82%B9%E9%98%B5%E5%9B%BE%E7%AA%97%E5%8F%A3.jpg" alt="点阵图窗口" width="600">
 </p>
 
 
