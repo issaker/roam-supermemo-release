@@ -58,7 +58,7 @@
 2. 点击**Developer Extensions** → **Load Extension from URL**
 2. 粘贴以下地址：
    ```
-   https://issaker.github.io/roam-supermemo/extension.js
+   https://raw.githubusercontent.com/issaker/roam-supermemo-release/main/extension.js
    ```
 4. 点击 **Load remote extension** 完成安装
 
